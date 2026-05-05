@@ -119,14 +119,6 @@ class SystemArchitectCandidate:
 
 ---
 
-## 📺 ICT Academy — Daily Video Tracker
-
-Her gün en az 1 video izleme hedefimi takip ettiğim uygulama:
-
-[![ICT Tracker](https://img.shields.io/badge/ICT_Academy-Daily_Tracker-00d9ff?style=for-the-badge&logo=github&logoColor=white)](https://sevvalcandan1.github.io/ict-tracker/)
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
