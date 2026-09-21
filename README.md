@@ -6,7 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=720&lines=FastAPI+%2B+Elasticsearch+RAG;BYOK+keys+never+hit+the+database;Retrieve+k%3D3%2C+then+cite+the+page)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sevval-candan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sevval-candan1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SevvalCANDAN1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sevval_CANDAN/)
 
@@ -14,11 +14,11 @@
 
 > Retrieve first. Cite the page. Do not invent.
 
-Ankara University — Computer Engineering, double major **AI & Data Engineering** (GPA **3.56**). Backend & AI research intern at **TRMiX**. Main work: **RAG services** — FastAPI at the edge, Elasticsearch for vectors, LangChain for the chain, keys that never land in the DB.
+Ankara University — Computer Engineering, double major **AI & Data Engineering** (GPA **3.45**). Former Backend & AI research intern at **TRMiX** (through Sep 2026). Main work: **RAG services** — FastAPI at the edge, Elasticsearch for vectors, LangChain for the chain, keys that never land in the DB.
 
 ```python
 class Focus:
-    intern = "TRMiX · Backend & AI research"
+    intern = "TRMiX · Backend & AI research (ended Sep 2026)"
     now = "fastapi-rag-assistant  # public, still growing"
     loop = ["PDF ingest", "embed", "retrieve k=3", "generate + sources"]
     serve = "FastAPI /rag/v1 + Vite/React (Folio)"
@@ -88,7 +88,7 @@ Earlier document loop: Streamlit, MiniLM, local FAISS, Gemini 2.5 Flash, chunk 5
 ### [Grafana AI Dashboard Orchestrator](https://github.com/SevvalCANDAN1/grafana-llm-builder)
 Schema-as-context: discover Grafana datasources and PostgreSQL columns, prompt an Ollama-compatible LLM, push valid dashboard JSON. No invented fields.
 
-### TRMiX intern
+### TRMiX — Backend & AI research intern (completed Sep 2026)
 Async FastAPI, prompt work, Chroma / Elasticsearch next to production traffic.
 
 ### Also AI
@@ -124,16 +124,3 @@ HuggingFace MiniLM, Streamlit, spaCy, scikit-learn, XGBoost, PostgreSQL, AWS, Dj
 AWS IoT city sensors ([homework-2](https://github.com/SevvalCANDAN1/homework-2)) · e-commerce API on ALB/ASG/RDS ([homework-1](https://github.com/SevvalCANDAN1/homework-1)) · Django quality monitor ([Turkcell](https://github.com/SevvalCANDAN1/Turkcell)) · expense tracker Compose ([cloud](https://github.com/SevvalCANDAN1/cloud)) · SayfaSayfa store ([sayfasayfa](https://github.com/SevvalCANDAN1/sayfasayfa)) · Compose Android labs · SQL / pandas / C structures.
 
 </details>
-
----
-
-## Practice
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Sevval_CANDAN?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Sevval_CANDAN/)
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SevvalCANDAN1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SevvalCANDAN1&layout=compact&langs_count=6&theme=transparent&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" alt="Top languages" />
-
-</div>
